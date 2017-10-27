@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <item
+        android:id="@+id/one"
+        android:title="@string/one_menu_title" />
+    <item
+        android:id="@+id/two"
+        android:title="@string/two_menu_title" />
+    <item
+        android:id="@+id/three"
+        android:title="@string/three_menu_title" />
+    <item
+        android:id="@+id/browser"
+        android:title="@string/browser_menu_title"/>
+</menu>
