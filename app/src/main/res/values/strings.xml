@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Three Activities</string>
+    <string name="one">Hi! This is activity One!</string>
+    <string name="two">Hi! This is activity Two!</string>
+    <string name="three">Hi! This is activity Three!</string>
+    <string name="one_menu_title">Activity 1</string>
+    <string name="two_menu_title">Activity 2</string>
+    <string name="three_menu_title">Activity 3</string>
+    <string name="browser_menu_title">Webbrowser</string>
+</resources>
